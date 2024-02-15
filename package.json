@@ -1,0 +1,14 @@
+{
+  "name": "sql-ddl-comparison",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.14",
+    "mssql": "^10.0.2"
+  }
+}
